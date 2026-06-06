@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Welcome to my personal website!
 
 I am an incoming Empirical Research Fellow in the Finance Department at the Kellogg School of Management, Northwestern University.
