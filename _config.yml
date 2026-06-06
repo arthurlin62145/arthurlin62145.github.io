@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Test"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : #"Earth"
-  employer         :# "Red Brick University"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : # "Earth"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "arthur62145@gmail.com" 
 
